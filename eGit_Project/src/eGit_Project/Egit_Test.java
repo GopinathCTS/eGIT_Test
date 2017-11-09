@@ -7,6 +7,12 @@ public class Egit_Test {
 		System.out.println("Current class name :0 ");
 		System.out.println("Current class name :1 ");
 		System.out.println("Current class name :2 ");
+		System.out.println("Current class name :0 ");
+		System.out.println("Current class name :1 ");
+		System.out.println("Current class name :2 ");
+		System.out.println("Current class name :0 ");
+		System.out.println("Current class name :1 ");
+		System.out.println("Current class name :2 ");
 	}
 
 }
